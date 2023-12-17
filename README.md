@@ -2,7 +2,7 @@
 
 This is a simple resource application built using React.js with TypeScript, Vite for development, and Tailwind CSS for styling. The application allows users to filter and view images based on predefined categories.
 
-<img src="https://github.com/Signor1/filterableGallery/blob/f0300c1a4d69a6f3ee5f5e9194e53ffd011efb8c/demoview.png" width="100%"/>
+<img src="https://github.com/markdhelweb/MyResourceCollection/blob/master/demoview.png" width="100%"/>
 
 ## Features
 
@@ -25,13 +25,13 @@ Make sure you have Node.js and npm (Node Package Manager) installed on your syst
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Signor1/filterableGallery.git
+   git clone https://github.com/markdhelweb/MyResourceCollection
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd your-gallery-project
+   cd MyResourceCollection
    ```
 
 3. Install dependencies:
@@ -62,11 +62,11 @@ This will generate a production-ready build in the `dist` directory.
 
 ## Usage
 
-1. Open the gallery in your web browser.
+1. Open the resource in your web browser.
 
 2. Browse through the images.
 
-3. Use the filter buttons to filter images by category.
+3. Use the filter buttons to filter resources by category.
 
 ## Contributing
 
@@ -92,4 +92,5 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 ## Contact
 
 If you have any questions or feedback, feel free to contact me.
+Email: markdhelvillarama1029@gmail.com
 
