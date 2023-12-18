@@ -413,6 +413,32 @@ export const filterableData = [
     },
     // End Github tools //
 
+    // Start Notion //
+    {
+        name: "notion",
+        src: "https://res.cloudinary.com/dvh9nyr4z/image/upload/v1702791616/Images-MyResourceCollection/unknown_vjuqwz.jpg",
+        title: "Notion Cover Generator",
+        text: "Create Custom Notion Covers free in minutes",
+        link: "https://notioncovergenerator.com/"
+    },
+    {
+        name: "notion",
+        src: "https://res.cloudinary.com/dvh9nyr4z/image/upload/v1702791616/Images-MyResourceCollection/unknown_vjuqwz.jpg",
+        title: "ChartBase",
+        text: "Create live-updating charts from your Notion databases in seconds with no code.",
+        link: "https://notion2charts.com/"
+    },
+    {
+        name: "notion",
+        src: "https://res.cloudinary.com/dvh9nyr4z/image/upload/v1702791616/Images-MyResourceCollection/unknown_vjuqwz.jpg",
+        title: "GetKairo",
+        text: "Engaging and straightforward yet delightful time, habit and goal tracking dashboard.",
+        link: "https://getkairo.com/"
+    },
+
+
+    // End Notion //
+
     // Start tools online //
     {
         name: "tools online",
@@ -463,6 +489,35 @@ export const filterableData = [
         text: "monkey type for practice hands",
         link: "https://monkeytype.com/"
     },
+    {
+        name: "tools online",
+        src: "https://res.cloudinary.com/dvh9nyr4z/image/upload/v1702791616/Images-MyResourceCollection/unknown_vjuqwz.jpg",
+        title: "PDF24 Tools",
+        text: "Free and easy-to-use online PDF tools that make you more productive.",
+        link: "https://tools.pdf24.org/en/"
+    },
+    {
+        name: "tools online",
+        src: "https://res.cloudinary.com/dvh9nyr4z/image/upload/v1702791616/Images-MyResourceCollection/unknown_vjuqwz.jpg",
+        title: "PDF to DOC",
+        text: "This free online PDF to DOC converter allows you to save a PDF file as an editable document in Microsoft Word DOC format, ensuring better quality than many other converters.",
+        link: "https://pdf2doc.com/"
+    },
+    {
+        name: "tools online",
+        src: "https://res.cloudinary.com/dvh9nyr4z/image/upload/v1702791616/Images-MyResourceCollection/unknown_vjuqwz.jpg",
+        title: "Website Mockup Generator",
+        text: "Can take up to a minute to capture screenshots",
+        link: "https://websitemockupgenerator.com/"
+    },
+    {
+        name: "tools online",
+        src: "https://res.cloudinary.com/dvh9nyr4z/image/upload/v1702791616/Images-MyResourceCollection/unknown_vjuqwz.jpg",
+        title: "Excalidraw",
+        text: "Create beautiful hand-drawn like diagrams, wireframes, or whatever you like",
+        link: "https://excalidraw.com/"
+    },
+
 
 
     // End tools online //
